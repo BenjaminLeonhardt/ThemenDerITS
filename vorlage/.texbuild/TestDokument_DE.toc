@@ -27,6 +27,7 @@
 \contentsline {subsection}{\numberline {8.2.1}Erweiterbarkeit der Ergebnisse}{11}{subsection.8.2.1}%
 \contentsline {subsection}{\numberline {8.2.2}Übertragbarkeit der Ergebnisse}{11}{subsection.8.2.2}%
 \def \@chapapp {\appendixname }
-\contentsline {chapter}{\numberline {A}Anhang A}{12}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Anhang B}{15}{appendix.B}%
+\contentsline {chapter}{\nonumberline Literatur}{12}{chapter*.3}%
+\contentsline {chapter}{\numberline {A}Anhang A}{13}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Anhang B}{16}{appendix.B}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

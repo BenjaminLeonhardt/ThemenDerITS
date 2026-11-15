@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.15)  15 NOV 2026 18:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.15)  15 NOV 2026 20:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1566,7 +1566,7 @@ LaTeX Font Info:    Trying to load font information for T1+pnc on input line 7.
 File: t1pnc.fd 2001/06/04 font definitions for T1/pnc.
 )
 (c:\Users\Ben\Downloads\Dokumente\Schule\Fortgeschrittene Themen der ITS\LatexV
-orlage_4.0.0\Latex-Vorlage\vorlage\.texbuild\TestDokument_DE.aux
+orlage_4.0.0\Latex-Vorlage\ThemenDerITS\vorlage\.texbuild\TestDokument_DE.aux
 Package babel Info: 'ngerman' activates 'german' shorthands.
 (babel)             Reported on input line 13.
 )
@@ -1720,12 +1720,15 @@ Package biblatex Info: Automatic encoding selection.
 \openout5 = `TestDokument_DE.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'TestDokument_DE.bbl' not found.
-No file TestDokument_DE.bbl.
+Package biblatex Info: ... file 'TestDokument_DE.bbl' found.
+
+(c:\Users\Ben\Downloads\Dokumente\Schule\Fortgeschrittene Themen der ITS\LatexV
+orlage_4.0.0\Latex-Vorlage\ThemenDerITS\vorlage\.texbuild\TestDokument_DE.bbl)
 Package biblatex Info: Reference section=0 on input line 7.
 Package biblatex Info: Reference segment=0 on input line 7.
 LaTeX Font Info:    Trying to load font information for T1+pag on input line 65
 .
+
 (C:\Users\Ben\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
@@ -1835,7 +1838,8 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 10
 9.
 
 (c:\Users\Ben\Downloads\Dokumente\Schule\Fortgeschrittene Themen der ITS\LatexV
-orlage_4.0.0\Latex-Vorlage\vorlage\.texbuild\TestDokument_DE.toc [3
+orlage_4.0.0\Latex-Vorlage\ThemenDerITS\vorlage\.texbuild\TestDokument_DE.toc
+[3
 
 
 
@@ -1852,11 +1856,12 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 11
 5.
 
 (c:\Users\Ben\Downloads\Dokumente\Schule\Fortgeschrittene Themen der ITS\LatexV
-orlage_4.0.0\Latex-Vorlage\vorlage\.texbuild\TestDokument_DE.lot)
+orlage_4.0.0\Latex-Vorlage\ThemenDerITS\vorlage\.texbuild\TestDokument_DE.lot)
 \tf@lot=\write7
 \openout7 = `TestDokument_DE.lot'.
 
- [5
+
+[5
 
 
 ]
@@ -1865,11 +1870,12 @@ Package tocbasic Info: character protrusion at lol deactivated on input line 11
 8.
 
 (c:\Users\Ben\Downloads\Dokumente\Schule\Fortgeschrittene Themen der ITS\LatexV
-orlage_4.0.0\Latex-Vorlage\vorlage\.texbuild\TestDokument_DE.lol)
+orlage_4.0.0\Latex-Vorlage\ThemenDerITS\vorlage\.texbuild\TestDokument_DE.lol)
 \tf@lol=\write8
 \openout8 = `TestDokument_DE.lol'.
 
- [6
+
+[6
 
 
 ]
@@ -1907,18 +1913,6 @@ l.180
 
 ] [2]
 chapter 2.
-
-LaTeX Warning: Citation 'JabRef:JabRef' on page 3 undefined on input line 205.
-
-
-Overfull \hbox (34.17024pt too wide) in paragraph at lines 204--206
-[]\T1/pnc/m/n/10.95 (-20) Für die Er-stel-lung des Li-te-ra-tur-ver-zeich-nis-s
-es wird das Werk-zeug JabRef[[]]
- []
-
-
-LaTeX Warning: Citation 'SAS:Citavi' on page 3 undefined on input line 207.
-
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 215.
 [3
@@ -1968,48 +1962,41 @@ chapter 7.
 
 ]
 chapter 8.
-
-LaTeX Warning: Empty bibliography on input line 368.
-
 [11
 
 
 ]
-chapter A.
+chapter without number
 [12
 
 
-] [13] [14]
+]
+chapter A.
+[13
+
+
+] [14] [15]
 chapter B.
-[15
+[16
 
 
-] [16]
+] [17]
 (c:\Users\Ben\Downloads\Dokumente\Schule\Fortgeschrittene Themen der ITS\LatexV
-orlage_4.0.0\Latex-Vorlage\vorlage\.texbuild\TestDokument_DE.aux)
+orlage_4.0.0\Latex-Vorlage\ThemenDerITS\vorlage\.texbuild\TestDokument_DE.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                TestDokument_DE
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'TestDokument_DE.run.xml'.
 \openout1 = `TestDokument_DE.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45995 strings out of 467871
- 948108 string characters out of 5419343
- 1946093 words of memory out of 5000000
- 73880 multiletter control sequences out of 15000+600000
- 714148 words of font info for 245 fonts, out of 8000000 for 9000
+ 46054 strings out of 467871
+ 949781 string characters out of 5419343
+ 1946184 words of memory out of 5000000
+ 73914 multiletter control sequences out of 15000+600000
+ 716324 words of font info for 259 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  122i,19n,121p,11244b,3089s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ben/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.p
@@ -2018,12 +2005,13 @@ pfb><C:/Users/Ben/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.
 pfb><C:/Users/Ben/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ncntrsbk/uncb8a
 .pfb><C:/Users/Ben/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ncntrsbk/uncr8
 a.pfb><C:/Users/Ben/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ncntrsbk/uncr
-8a.pfb>
+8a.pfb><C:/Users/Ben/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ncntrsbk/unc
+ri8a.pfb>
 Output written on "c:\Users\Ben\Downloads\Dokumente\Schule\Fortgeschrittene The
-men der ITS\LatexVorlage_4.0.0\Latex-Vorlage\vorlage\.texbuild\TestDokument_DE.
-pdf" (24 pages, 713050 bytes).
+men der ITS\LatexVorlage_4.0.0\Latex-Vorlage\ThemenDerITS\vorlage\.texbuild\Tes
+tDokument_DE.pdf" (25 pages, 726350 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
- 84210 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 341 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 500000)
+ 86266 words of extra memory for PDF output out of 89155 (max. 10000000)
 
