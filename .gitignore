@@ -28,6 +28,8 @@
 /readme/*.log
 /readme/*.lol
 
+vorlage/.texbuild/*
+
 vorlage/.texbuild/TestDokument_DE.aux
 vorlage/.texbuild/TestDokument_DE.bbl
 vorlage/.texbuild/TestDokument_DE.blg
